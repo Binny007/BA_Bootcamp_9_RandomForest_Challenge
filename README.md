@@ -79,12 +79,12 @@ A grid search across `n_estimators` was conducted to minimize MAE.
 ```python
 {'n_estimators': 50}
 
---> This shows that fewer trees in this case led to better generalization—possibly due to reduced overfitting.
+    --> This shows that fewer trees in this case led to better generalization—possibly due to reduced overfitting.
 
 
 
 
-📌 Repository Structure
+## 📌 Repository Structure
 
 📁 Random Forest Challenge
 ├── marketing_campaign.csv             # Dataset
@@ -95,7 +95,7 @@ A grid search across `n_estimators` was conducted to minimize MAE.
 
 
 
-📊 Key Takeaways
+## 📊 Key Takeaways
 
     * Random Forests are powerful for handling feature-rich data with minimal preprocessing.
     
@@ -106,7 +106,7 @@ A grid search across `n_estimators` was conducted to minimize MAE.
     * XAI techniques like feature importance provide clarity on the black-box nature of ensemble models.
 
 
-🤝 Let's Connect
+## 🤝 Let's Connect
 
     --> If you found this project insightful or want to collaborate, feel free to reach out or connect on LinkedIn!
 
