@@ -68,16 +68,16 @@ This suggests the model does a reasonable job predicting income, with an average
 
 
 
-✅ Spending habits—especially on **wines and meats**—are strong predictors of income.
-
----
-
-## 🔧 Parameter Tuning
-
-A grid search across `n_estimators` was conducted to minimize MAE.  
-**Best Parameter:**  
-```python
-{'n_estimators': 50}
+        ✅ Spending habits—especially on **wines and meats**—are strong predictors of income.
+        
+        ---
+        
+        ## 🔧 Parameter Tuning
+        
+        A grid search across `n_estimators` was conducted to minimize MAE.  
+        **Best Parameter:**  
+        ```python
+        {'n_estimators': 50}
 
     --> This shows that fewer trees in this case led to better generalization—possibly due to reduced overfitting.
 
