@@ -66,7 +66,7 @@ This suggests the model does a reasonable job predicting income, with an average
     
     5. NumDealsPurchases (~6.6%)
 
-
+#
 
         ✅ Spending habits—especially on **wines and meats**—are strong predictors of income.
         
