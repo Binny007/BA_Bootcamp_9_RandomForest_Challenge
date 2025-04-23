@@ -87,10 +87,15 @@ This suggests the model does a reasonable job predicting income, with an average
 ## 📌 Repository Structure
 
 📁 Random Forest Challenge
+
 ├── marketing_campaign.csv             # Dataset
+
 ├── Random Forest Challenge.ipynb      # Complete analysis in Python
+
 ├── Random Forest Challenge.pdf        # Challenge overview & tasks
+
 ├── Customer_s income.docx             # Variable descriptions
+
 └── README.md                          # You’re here!
 
 
